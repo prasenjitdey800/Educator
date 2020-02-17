@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Educator</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Prasenjit Dey</string>
+    <string name="nav_header_subtitle">prasenjit.dey@cs.christuniversity.in</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">ADBMS</string>
+    <string name="menu_slideshow">Mobile Application</string>
+    <string name="menu_tools">Data Structures</string>
+    <string name="menu_share">Java</string>
+    <string name="menu_send">Download photos</string>
+    <string name="notification_channel_name">testing</string>
+    <string name="notification_channel_description">Describe me</string>
+    <string name="update">See photo</string>
+    <string name="call_me">call</string>
+    <string name="notification_title">Prasenjit - 2MCS</string>
+    <string name="notification_updated">Ex-Xaverian</string>
+    <string name="data_st">In computer science, a data structure is a data organization, management, and storage format that enables efficient access and modification.[1][2][3] More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.</string>
+    <string name="dbms">A database management system (DBMS) is a software package designed to define, manipulate, retrieve and manage data in a database. A DBMS generally manipulates the data itself, the data format, field names, record structure and file structure. It also defines rules to validate and manipulate this data.</string>
+    <string name="mobile_app">Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an \"application-like\" experience within a Web browser. Application software developers also must consider a long array of screen sizes, hardware specifications, and configurations because of intense competition in mobile software and changes within each of the platforms. Mobile app development has been steadily growing, in revenues and jobs created. A 2013 analyst report estimates there are 529,000 direct app economy jobs within the EU 28 members, 60% of which are mobile app developers.</string>
+    <string name="java">Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA),[15] meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.[16] Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either of them. As of 2019, Java was one of the most popular programming languages in use according to GitHub,[17][18] particularly for client-server web applications, with a reported 9 million developers.</string>
+</resources>
